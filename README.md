@@ -1,2 +1,2 @@
 # geofeed-vivo
-Geofeed for Max Mind update
+Geo-feed for MaxMind in RFC 8805 format
